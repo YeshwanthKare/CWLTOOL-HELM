@@ -1,0 +1,6 @@
+apiVersion: v2
+name: cwltool-helm
+description: A Helm chart for deploying CWL workflows using cwltool
+type: application
+version: 0.1.0
+appVersion: "3.10"
