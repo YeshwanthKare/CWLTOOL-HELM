@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: cwltool-image  # Docker image for cwltool
+  repository: quay.io/commonwl/cwltool  # Docker image for cwltool
   tag: latest               # Image tag
   pullPolicy: IfNotPresent  # Image pull policy
 
